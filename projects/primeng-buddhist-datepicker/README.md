@@ -1,18 +1,18 @@
-# 📅 Primeng Buddhist Datepicker
+# primeng-buddhist-year-datepicker-21-unofficial
 
-This library extends the [PrimeNG Datepicker](https://primeng.org/datepicker) to support **Buddhist Year (BE)** display.
+This library is a **PrimeNG v21** compatible implementation of a DatePicker with **Buddhist Year (BE)** support. It re-implements the logic from the original `primeng-buddhist-datepicker` on top of the modern PrimeNG v21 `DatePicker`.
 
-> ✅ Built with [Angular CLI](https://github.com/angular/angular-cli)  
-> 📦 Supports **PrimeNG** and **Angular** version mapping as shown below
+> ✅ Built with [Angular CLI 21](https://github.com/angular/angular-cli)  
+> 📦 Supports **PrimeNG 21** and **Angular 21**
 
 ---
 
 ## 🔄 Version Compatibility
 
-| Angular Version        | Library Version                       | Install Command                                  |
-| ---------------------- | ------------------------------------- | ------------------------------------------------ |
-| `^19.0.0` and above    | `primeng-buddhist-year-datepicker@19` | `npm i primeng-buddhist-year-datepicker@^19.0.0` |
-| `^17.0.0` to `<19.0.0` | `primeng-buddhist-year-datepicker@17` | `npm i primeng-buddhist-year-datepicker@^17.0.0` |
+| Angular Version     | Library Version                                     | Install Command                                               |
+| ------------------- | --------------------------------------------------- | ------------------------------------------------------------- |
+| `^21.0.0` and above | `primeng-buddhist-year-datepicker-21-unofficial@21` | `npm i primeng-buddhist-year-datepicker-21-unofficial@latest` |
+| `^19.0.0` and above | `primeng-buddhist-year-datepicker@19`               | `npm i primeng-buddhist-year-datepicker@^19.0.0`              |
 
 > ⚠️ Make sure to match the correct version of the library with your Angular version.
 
